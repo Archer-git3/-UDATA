@@ -1,4 +1,4 @@
-  <h1>Hi thi is project for test task UData</h1>
+  <h1>Hi this is project for test task UData</h1>
 
 In this task, an algorithm will be implemented with the help of which data will be taken from the <a href=https://www.mcdonalds.com/ua/uk-ua/eat/fullmenu.html > site</a> and written to a json file and then displayed using flask.
 
